@@ -1,7 +1,9 @@
 # wordcloud-using-python
 
 Problem statement - creating a wordcloud using python libraries.
+
 Here, I am using Pride and Prejudice book from project Gutenburg website for creating wordcloud.
+
 Following are the important steps to do create wordcloud using object oriented version. 
 Here, I have created a class named Book and it has various member functions and attributes,constructors as follows-
 
